@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694244812 source:c:\users\alkin\desktop\school\2-2\datastructure\ds_assignment\robocop\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<sstream>
+
+1694426702 source:c:\users\alkin\desktop\school\2-2\datastructure\ds_assignment\ds_assig_03_robocop\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
